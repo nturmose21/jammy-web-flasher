@@ -1,6 +1,6 @@
 {
   "name": "Jammy",
-  "url": "https://yourusername.github.io/jammy-web-flasher/",
+  "url": "https://nturmose21.github.io/jammy-web-flasher/",
   "builds": [
     {
       "chipFamily": "ESP32",
